@@ -37,4 +37,46 @@ This project predicts whether a customer will churn (leave a service) using mach
 
 ## Requirements
 - Python 3.x
+
 - Libraries: pandas, numpy, seaborn, matplotlib, scikit-learn
+
+---
+
+## Plot Preview(Visualization)
+
+ Confusion Matrix
+ <br>
+ <br>
+<img src="https://github.com/pratimadhende/Customer-Churn-Prediction/blob/ed704043d4240a57a2ae943ff89673902f6cf605/Confusion_matrix.png" alt="Image Description" width="600">
+<br>
+<br>
+Churn Distribution
+<br>
+<br>
+<img src="https://github.com/pratimadhende/Customer-Churn-Prediction/blob/ed704043d4240a57a2ae943ff89673902f6cf605/Churn%20Distribution.png" alt="Image Description" width="600">
+<br>
+<br>
+Distribution plot
+<br>
+<br>
+<img src="https://github.com/pratimadhende/Customer-Churn-Prediction/blob/ed704043d4240a57a2ae943ff89673902f6cf605/Distribution_plot.png" alt="Image Description" width="600">
+<br>
+<br>
+Feature vs Churn
+<br>
+<br>
+<img src="https://github.com/pratimadhende/Customer-Churn-Prediction/blob/ed704043d4240a57a2ae943ff89673902f6cf605/Feature%20vs%20churn.png" alt="Image Description" width="600">
+<br>
+<br>
+Feature Importance
+<br>
+<br>
+<img src="https://github.com/pratimadhende/Customer-Churn-Prediction/blob/ed704043d4240a57a2ae943ff89673902f6cf605/feature_importance.png" alt="Image Description" width="600">
+<br>
+<br>
+Numerical feature vs Churn
+<br>
+<br>
+<img src="https://github.com/pratimadhende/Customer-Churn-Prediction/blob/ed704043d4240a57a2ae943ff89673902f6cf605/numerical%20feature%20vs%20churn.png" alt="Image Description" width="600">
+
+
